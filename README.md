@@ -23,6 +23,7 @@ The repository covers a wide range of topics including, but not limited to:
 - Stacks and Queues
 - Trees and Graphs
 - Sorting Algorithms
+- Dijestra alogorithms
 - Greedy Algorithms
 - Dynamic Programming
 
