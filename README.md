@@ -22,6 +22,10 @@ The repository covers a wide range of topics including, but not limited to:
 - Linked Lists
 - Stacks and Queues
 - Trees and Graphs
+- Sorting Algorithms
+- Dijkstra Algorithm
+- Greedy Algorithms
+- Dynamic Programming
 
 Each topic includes detailed explanations of the underlying concepts, Python implementations of data structures and algorithms, as well as solutions to common interview questions.
 
